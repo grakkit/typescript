@@ -1,0 +1,5 @@
+{
+   "dependencies": {
+      "@grakkit/server": "1.4.2"
+   }
+}
