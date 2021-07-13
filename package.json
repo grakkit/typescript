@@ -1,5 +1,11 @@
 {
    "dependencies": {
       "@grakkit/server": "1.4.2"
+   },
+   "devDependencies": {
+      "typescript": "4.4.0-dev.20210708"
+   },
+   "scripts": {
+      "tsc": "npx tsc --watch"
    }
 }
